@@ -16,7 +16,7 @@ The goal of this project is to develop a conversational agent that can understan
 
 ## 🛠️ Technologies Used
 * **Language:** Python 3.x
-* **Machine Learning:** Scikit-Learn (LinearSVC, TF-IDF Vectorizer)
+* **Machine Learning:** Scikit-Learn (LogesticRegression)
 * **NLP Library:** NLTK (PorterStemmer, Stopwords)
 * **Data Handling:** Pandas, NumPy
 * **Serialization:** Pickle (For saving/loading models)
@@ -27,7 +27,7 @@ The goal of this project is to develop a conversational agent that can understan
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/sourav030/Sentiment-analysis.git
 cd SENTIMENT ANALYSIS
 pip install -r requirements.txt
 python src/chatbot/chatbot.py

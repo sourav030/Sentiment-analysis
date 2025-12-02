@@ -1,16 +1,16 @@
 Sentiment.csv
 src/ml/clean data.csv
 
-# Ignore Datasets
+
 *.csv
 *.xlsx
 
-# Ignore Large Models (GitHub limit 100MB)
-*.sav
-*.pkl
 
-# Ignore Virtual Env
-venv/
+*.sav
+# *.pkl
+
+
+# venv/
 __pycache__/
 
 sentiment analysis/Sentiment.csv

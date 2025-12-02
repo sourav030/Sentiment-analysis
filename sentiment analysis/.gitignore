@@ -1,9 +1,9 @@
 Sentiment.csv
-src/ml/clean data.csv
 
 
-*.csv
-*.xlsx
+
+# *.csv
+# *.xlsx
 
 
 *.sav
@@ -14,3 +14,8 @@ src/ml/clean data.csv
 __pycache__/
 
 sentiment analysis/Sentiment.csv
+
+# Ignore Virtual Environment Folder
+venv/
+sentiment analysis/venv/
+env/

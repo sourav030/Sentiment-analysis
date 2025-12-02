@@ -31,6 +31,7 @@ git clone https://github.com/sourav030/Sentiment-analysis.git
 cd SENTIMENT ANALYSIS
 pip install -r requirements.txt
 python src/chatbot/chatbot.py
+dataset https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ├── src
 │   ├── chatbot
